@@ -3,7 +3,7 @@
 ## Introduction
 
 ## Purpose
-Rebasing example
+Rebasing example, more changes from my-feature branch
 
 ## How to Contribute
 Fuck off
