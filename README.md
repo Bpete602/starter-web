@@ -9,3 +9,5 @@ Rebasing example, more changes from my-feature branch
 Fuck off
 
 ## Deployment
+
+## Copyright
